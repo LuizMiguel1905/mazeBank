@@ -4,7 +4,7 @@
 * Luiz Miguel Gomes Cunha
 * Tiago Ary Castelo
 
-##Ferramentas utilizadas:
+## Ferramentas utilizadas:
 * Visual Studio Code
 * Javascript
 * Sequelize
